@@ -1,0 +1,64 @@
+.red_block{
+	width: 20px;
+	height: 10px;
+	margin:1px 0px 0px 0px;
+	background: red;
+	position: absolute;
+	bottom: 0px;
+}
+.yellow_block{
+	width: 20px;
+	height: 10px;
+	margin:1px 0px 0px 0px;
+	background: yellow;
+	position: absolute;
+	bottom: 0px;
+}
+.green_block{
+	width: 20px;
+	height: 10px;
+	margin:1px 0px 0px 0px;
+	background: green;
+	position: absolute;
+	bottom: 0px;
+}
+.eq_bar{
+	width:20px;
+	position:absolute;
+	float: left;
+	bottom: 0px;
+	margin: 0px 0px 0px 2px;
+}
+.b{
+	left: 21px !important;
+}
+.c{
+	left: 42px !important;
+}
+.d{
+	left: 63px !important;
+}
+.f{
+	left: 105px !important;
+}
+.e{
+	left: 84px !important;
+}
+.g{
+	left: 126px !important;
+}
+.h{
+	left: 147px !important;
+}
+.equalizer{
+	width: 600px;
+	height: 133px;
+	background: #000000;
+	position: relative;
+}
+.grid{
+	background:url('grid.png');
+	position: absolute;
+	height: 133px;
+	width: 337px;
+}
